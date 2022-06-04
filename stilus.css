@@ -1,0 +1,42 @@
+.kontener{
+    border: 8px solid red;
+    border-top: 22px solid red;
+    background-color: grey;
+    border-radius: 25px;
+}
+.kontener3{
+   border: 8px solid white;
+   border-top: 22px solid white;
+   background-color: grey;
+   border-radius: 25px;
+}
+.udvozollek{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: yellow;
+    -moz-text-fill-color: black;
+ -webkit-text-fill-color:black ;
+    -moz-text-stroke-color: yellow;
+ -webkit-text-stroke-color: yellow;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+    
+
+}
+.kontener2{
+    font-family: 'Times New Roman', Times, serif;
+ border: 8px solid green;
+ border-top: 22px solid green;
+ background-color: grey;
+    border-radius: 25px;
+}
+.szoveg{
+   text-align: center;
+   font-size: 25px;
+   color: white;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+
+
+}
