@@ -1,6 +1,6 @@
 .kontener{
     border: 8px solid red;
-    border-top: 22px solid red;
+    border-top: 22px solid rgb(175, 0, 0);
     background-color: grey;
     border-radius: 25px;
 }
@@ -27,16 +27,66 @@
 .kontener2{
     font-family: 'Times New Roman', Times, serif;
  border: 8px solid green;
- border-top: 22px solid green;
+ border-top: 22px solid darkgreen;
  background-color: grey;
     border-radius: 25px;
 }
 .szoveg{
-   text-align: center;
+   /*text-align: center;*/
    font-size: 25px;
    color: white;
    font-weight: bold;
    font-family: 'Times New Roman', Times, serif;
 
 
+}
+/*
+.row{
+   min-height: 600px;
+}
+#kontener,
+#kontener2,
+#kontener3 {
+   max-height: 300px;
+}
+*/
+
+.hpal_logo {
+   border: 6px ridge yellow;
+   border-radius: 25px;
+   max-width: 50%;
+   height: auto;
+}
+
+#feher_szoveg{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 40px;
+   color: white;
+   -moz-text-fill-color: white;
+-webkit-text-fill-color:white ;
+   -moz-text-stroke-color: black;
+-webkit-text-stroke-color: black;
+   -moz-text-stroke-width: 1px;  
+-webkit-text-stroke-width: 1px;
+
+
+}
+
+.udvozollek2{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   color: yellow;
+   -moz-text-fill-color: black;
+-webkit-text-fill-color:black ;
+   -moz-text-stroke-color: yellow;
+-webkit-text-stroke-color: yellow;
+   -moz-text-stroke-width: 1px;  
+-webkit-text-stroke-width: 1px;
+   
+
+}
+.tonkok{
+   max-width: 45%;
+   height: auto;
 }
